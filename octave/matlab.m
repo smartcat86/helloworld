@@ -5,3 +5,4 @@ b = a*2;
 c =linspace(1,8,4)
 who
 figure
+
